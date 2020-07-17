@@ -1,0 +1,11 @@
+guests=['Nuraiym', 'Dinaiym', 'Argen']
+guests.insert(0, 'Lili')
+guests.insert(2, 'Almaz')
+guests.append('Nina')
+print(guests)
+print('i invate you '+ guests[0])
+print('i invate you '+ guests[1])
+print('i invate you '+ guests[2])
+print('i invate you '+ guests[3])
+print('i invate you '+ guests[4])
+print('i invate you '+ guests[5])
